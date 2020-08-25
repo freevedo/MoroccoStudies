@@ -1,0 +1,45 @@
+/*  ADMIN */
+
+.admin
+{
+    background: #fff;
+    padding: 50px;
+    border-radius: 10px;
+}
+.help-inline
+{
+    color: red;
+}
+
+.thumbnail
+{
+    background: #eee;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 3px;
+}
+.thumbnail img
+{
+    background: #ffd301;
+}
+ 
+
+.admin2
+{
+   background: red;
+  	width : 300px;
+    padding: 150px;
+    margin-bottom : 20px;
+    margin-top:20px;
+    border-radius: 20px;
+  
+}
+
+#contact
+{
+	background-color: #113848;
+}
+
+.form-control-inline {
+    width: auto;
+}
